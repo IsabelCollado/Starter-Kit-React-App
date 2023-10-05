@@ -43,7 +43,7 @@ The application works by following these steps:
 - 📍 Clone this repository on your local machine using the following command:
 
 ```
-https://github.com/IsabelCollado/Harry-Potter.git
+https://github.com/IsabelCollado/Starter-Kit-React-App
 ```
 
 ```
